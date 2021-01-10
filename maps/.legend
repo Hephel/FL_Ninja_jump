@@ -1,0 +1,5 @@
+RULES TO BUILD A MAP:
+    1 - The length of a card must be 150 characters long.
+    2 - A card is composed of 0, 1, 2, or 3. 0 means no obstacle, 1, 2, or 3 each represents an obstacle.
+    3 - Each osbtacle must be separated by at least 10 characters if they are of the same number.
+    4 - The last twenty characters must not contain any bumpers.
